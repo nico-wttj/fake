@@ -1,0 +1,3 @@
+= My article
+
+include::intro.adoc[]
